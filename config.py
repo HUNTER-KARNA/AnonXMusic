@@ -14,7 +14,7 @@ API_HASH = "9a098f01aa56c836f2e34aee4b7ef963"
 BOT_TOKEN = "7825465869:AAEFYQ_rVGLQTcXHJkxktYCa0I5uQaXVuTY"
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = "mongodb+srv://GOJODB:GOJODB_ownerjeetbhaiy@gojodb.inmpm.mongodb.net/?retryWrites=true&w=majority&appName=GOJODB"
+MONGO_DB_URI = "mongodb+srv://waifuuu0786:RehanKhan@cluster0.uctgneu.mongodb.net/?retryWrites=true&w=majority"
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 10000))
 
